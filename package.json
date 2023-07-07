@@ -126,7 +126,7 @@
     "prettier-stylelint": "^0.4.2",
     "sass-loader": "^8.0.2",
     "standard-version": "^7.1.0",
-    "stylelint": "^13.5.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-prettier": "^8.0.1",
     "stylelint-config-standard": "^20.0.0",
     "stylelint-declaration-block-no-ignored-properties": "^2.3.0",
